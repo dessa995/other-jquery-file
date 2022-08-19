@@ -1,0 +1,12 @@
+.button {
+  display: block;
+}
+
+.lista {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  height: 600px;
+  border: 2px solid black;
+}
